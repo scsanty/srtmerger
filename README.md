@@ -31,3 +31,8 @@ e.g. Usage:
 srtwriter(mergedsrt, r"output.srt")
 
 Any developmental inputs are welcomed.
+
+In development:
+1) Nearest Cue, method of merging
+2) GUI
+3) Executor(Executor GUI) to batch merge, multiple files.
