@@ -29,3 +29,5 @@ mergedsrt = addlineno(mergedsrt)
 6) Write the subtitle back into a file.
 e.g. Usage:
 srtwriter(mergedsrt, r"output.srt")
+
+Any developmental inputs are welcomed.
