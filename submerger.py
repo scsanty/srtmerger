@@ -1,5 +1,6 @@
 import datetime
 import codecs
+
 def srtparser(file):
     with codecs.open(file, 'r', 'utf-8') as f:
         file = f.read()
